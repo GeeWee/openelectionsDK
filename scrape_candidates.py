@@ -18,7 +18,7 @@ def scrape_candidates():
     parser = argparse.ArgumentParser(description='Scrape candidate data from SF website')
     parser.add_argument('--format', choices=['json', 'csv'], default='json', 
                        help='Output format (json or csv)')
-    parser.add_argument('--output', default='output/candidates',
+    parser.add_argument('--output', default='output/candidates_sf',
                        help='Output file path (without extension)')
     args = parser.parse_args()
 
@@ -78,16 +78,11 @@ def scrape_candidates():
                     
                     # Extract name
                     name = ''
+                    name = politician.select_one(".navn").text
                     container_text = politician.get_text(' ', strip=True)
-                    
+
                     if email:
                         email_text_pos = container_text.find(email)
-                        if email_text_pos > 0:
-                            potential_name = container_text[:email_text_pos].strip()
-                            potential_name = ' '.join(potential_name.split())
-                            name_parts = potential_name.split()
-                            if len(name_parts) <= 4:  # Likely a name
-                                name = potential_name
                     
                     # Extract additional information
                     additional_info = ''
