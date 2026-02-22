@@ -2,7 +2,8 @@
 # dependencies = [
 #   "requests==2.31.0",
 #   "beautifulsoup4==4.12.2",
-#   "python-dateutil==2.8.2"
+#   "python-dateutil==2.8.2",
+#   "pydantic==2.12.5"
 # ]
 # ///
 
@@ -16,6 +17,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+from models import Candidate
 
 def scrape_candidates():
     # Load official storkreds list from storkredse.json
@@ -92,44 +94,38 @@ def scrape_candidates():
         
         for element_type, element in all_elements:
             if element_type == 'header':
-                # Extract storkreds from header
+                # Extract storkreds from header using official list
                 header_text = element.get_text(strip=True)
+                current_storkreds = ""
                 
-                # Extract storkreds name from header
-                # First check for Københavns Omegns Storkreds specifically
-                if 'Københavns Omegn' in header_text:
-                    current_storkreds = 'Københavns Omegn'
-                else:
-                    storkreds_match = re.search(r'(København|Nordsjælland|Vestsjælland|Syddanmark|Nordjylland|Østjylland|Vestjylland|Sjælland|Fyn|Bornholm)', header_text)
-                    if storkreds_match:
-                        current_storkreds = storkreds_match.group(1)
-                    else:
-                        # Fallback: look for any region name
-                        storkreds_keywords = ['København', 'Nordsjælland', 'Vestsjælland', 'Syddanmark', 
-                                            'Nordjylland', 'Østjylland', 'Vestjylland', 'Sjælland',
-                                            'Fyn', 'Bornholm']
-                        for keyword in storkreds_keywords:
-                            if keyword in header_text:
-                                current_storkreds = keyword
-                                break
+                # Check each official storkreds name
+                for official_name in official_storkreds_list:
+                    if official_name in header_text:
+                        current_storkreds = official_name
+                        break
+                
+                # Special case mappings for header text to official names
+                if "Københavns Storkreds" in header_text and "Omegn" not in header_text:
+                    current_storkreds = "København Storkreds"  # Map "Københavns Storkreds" to "København Storkreds"
+                elif "Københavns Omegn" in header_text:
+                    current_storkreds = "Københavns Omegns"  # Map "Københavns Omegns Storkreds" to "Københavns Omegns"
+                elif "Sydjylland" in header_text:
+                    current_storkreds = "Sydjylland"  # Map "Sydjyllands Storkreds" to "Sydjylland"
                 
                 print(f"Header: {header_text} -> Storkreds: {current_storkreds}")
             else:  # candidate
-                candidate = {}
-                
                 # Extract email
+                email = None
                 email_link = element.select_one('a[href^="mailto:"]')
                 if email_link:
                     email = email_link['href'].replace('mailto:', '').strip()
-                    candidate['email'] = email
-                else:
-                    candidate['email'] = ''
                 
                 # Extract name
                 name = ''
-                if candidate['email']:
-                    container_text = element.get_text(' ', strip=True)
-                    email_text_pos = container_text.find(candidate['email'])
+                container_text = element.get_text(' ', strip=True)
+                
+                if email:
+                    email_text_pos = container_text.find(email)
                     if email_text_pos > 0:
                         potential_name = container_text[:email_text_pos].strip()
                         potential_name = ' '.join(potential_name.split())
@@ -137,38 +133,48 @@ def scrape_candidates():
                         if len(name_parts) <= 4:  # Likely a name
                             name = potential_name
                 
-                candidate['name'] = name
-                
                 # Extract additional information
                 additional_info = ''
-                if candidate['email'] and email_text_pos > 0:
-                    additional_info = container_text[email_text_pos + len(candidate['email']):].strip()
+                if email and email_text_pos > 0:
+                    additional_info = container_text[email_text_pos + len(email):].strip()
                     additional_info = ' '.join(additional_info.split())
                 
-                candidate['additional_info'] = additional_info
-                candidate['storkreds'] = current_storkreds
-                candidate['party'] = 'SF'
-                
-                candidates.append(candidate)
-                print(f"Candidate: {name} - {candidate['email']} - {current_storkreds}")
+                # Create Candidate object using Pydantic model
+                try:
+                    candidate = Candidate(
+                        name=name,
+                        party='SF',
+                        email=email if email else None,
+                        storkreds=current_storkreds if current_storkreds else None,
+                        additional_info=additional_info if additional_info else None
+                    )
+                    candidates.append(candidate)
+                    print(f"Candidate: {candidate.name} - {candidate.email} - {candidate.storkreds}")
+                except Exception as e:
+                    print(f"Error creating candidate: {e}")
+                    print(f"Candidate data: name='{name}', email='{email}', storkreds='{current_storkreds}'")
         
         # Save results
         if candidates:
             if args.format == 'json':
+                # Convert Pydantic models to dictionaries for JSON serialization
+                candidates_dict = [candidate.model_dump() for candidate in candidates]
                 with open(output_file, 'w', encoding='utf-8') as f:
-                    json.dump(candidates, f, ensure_ascii=False, indent=2)
+                    json.dump(candidates_dict, f, ensure_ascii=False, indent=2)
             else:  # csv
                 with open(output_file, 'w', encoding='utf-8', newline='') as f:
                     writer = csv.DictWriter(f, fieldnames=['name', 'email', 'storkreds', 'additional_info', 'party'])
                     writer.writeheader()
-                    writer.writerows(candidates)
+                    # Convert Pydantic models to dictionaries for CSV writing
+                    candidates_dict = [candidate.model_dump() for candidate in candidates]
+                    writer.writerows(candidates_dict)
             
             print(f"\nSuccessfully saved {len(candidates)} candidates to {output_file}")
             
             # Statistics
-            emails_found = sum(1 for c in candidates if c['email'])
-            names_found = sum(1 for c in candidates if c['name'])
-            storkreds_found = sum(1 for c in candidates if c['storkreds'])
+            emails_found = sum(1 for c in candidates if c.email)
+            names_found = sum(1 for c in candidates if c.name)
+            storkreds_found = sum(1 for c in candidates if c.storkreds)
             
             print(f"Statistics:")
             print(f"  Candidates with emails: {emails_found}/{len(candidates)}")
@@ -178,15 +184,15 @@ def scrape_candidates():
             # Storkreds distribution
             storkreds_distribution = {}
             for candidate in candidates:
-                if candidate['storkreds']:
-                    storkreds_distribution[candidate['storkreds']] = storkreds_distribution.get(candidate['storkreds'], 0) + 1
+                if candidate.storkreds:
+                    storkreds_distribution[candidate.storkreds] = storkreds_distribution.get(candidate.storkreds, 0) + 1
             
             print(f"\nStorkreds distribution:")
             for storkreds, count in sorted(storkreds_distribution.items()):
                 print(f"  {storkreds}: {count} candidates")
             
             # Check if all candidates have storkreds
-            candidates_without_storkreds = sum(1 for c in candidates if not c['storkreds'])
+            candidates_without_storkreds = sum(1 for c in candidates if not c.storkreds)
             if candidates_without_storkreds > 0:
                 print(f"\nWarning: {candidates_without_storkreds} candidates without storkreds")
             else:
