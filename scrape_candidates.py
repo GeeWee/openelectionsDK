@@ -1,11 +1,4 @@
-# /// script
-# dependencies = [
-#   "requests==2.31.0",
-#   "beautifulsoup4==4.12.2",
-#   "python-dateutil==2.8.2",
-#   "pydantic==2.12.5"
-# ]
-# ///
+
 
 import os
 import sys
@@ -18,24 +11,9 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from models import Candidate
+from utils import find_most_similar_storkreds
 
 def scrape_candidates():
-    # Load official storkreds list from storkredse.json
-    try:
-        with open('storkredse.json', 'r', encoding='utf-8') as f:
-            official_storkreds_list = json.load(f)
-    except FileNotFoundError:
-        print("Warning: storkredse.json not found, using fallback list")
-        official_storkreds_list = [
-            "Københavns Omegns", "København", "Nordsjælland", "Bornholm",
-            "Sjælland", "Fyn", "Sydjylland", "Østjylland", "Vestjylland", "Nordjylland"
-        ]
-    except json.JSONDecodeError:
-        print("Warning: storkredse.json is invalid, using fallback list")
-        official_storkreds_list = [
-            "Københavns Omegns", "København", "Nordsjælland", "Bornholm",
-            "Sjælland", "Fyn", "Sydjylland", "Østjylland", "Vestjylland", "Nordjylland"
-        ]
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Scrape candidate data from SF website')
     parser.add_argument('--format', choices=['json', 'csv'], default='json', 
@@ -67,92 +45,146 @@ def scrape_candidates():
         soup = BeautifulSoup(response.text, 'html.parser')
         print(f"Page loaded successfully. Response size: {len(response.text)} characters")
         
-        # Find all storkreds headers
-        storkreds_headers = soup.select('div.col-xs-12.politiker_overskrift.h1.text-left')
-        print(f"Found {len(storkreds_headers)} storkreds headers")
+        # Find all politiker_liste elements
+        politiker_liste_elements = soup.select('.politiker_liste')
+        print(f"Found {len(politiker_liste_elements)} politiker_liste elements")
         
-        # Find all candidate containers
-        candidate_containers = soup.select('div.politiker')
-        print(f"Found {len(candidate_containers)} candidate containers")
-        
-        # Create a list of all elements in order: headers and candidates
-        all_elements = []
-        
-        # Add headers to the list
-        for header in storkreds_headers:
-            all_elements.append(('header', header))
-        
-        # Add candidates to the list
-        for candidate in candidate_containers:
-            all_elements.append(('candidate', candidate))
-        
-        # Sort all elements by their position in the document
-        all_elements.sort(key=lambda x: x[1].sourceline if hasattr(x[1], 'sourceline') else 0)
-        
-        # Now process in order to assign storkreds
-        current_storkreds = ""
-        
-        for element_type, element in all_elements:
-            if element_type == 'header':
-                # Extract storkreds from header using official list
-                header_text = element.get_text(strip=True)
-                current_storkreds = ""
+        if politiker_liste_elements:
+            # Process each list separately
+            for liste_index, liste_element in enumerate(politiker_liste_elements):
+                print(f"\nProcessing list {liste_index + 1}")
                 
-                # Check each official storkreds name
-                for official_name in official_storkreds_list:
-                    if official_name in header_text:
-                        current_storkreds = official_name
-                        break
+                # Find the first header in this list as the storkreds
+                first_header = liste_element.select_one('div.col-xs-12.politiker_overskrift.h1.text-left, .politiker_overskrift, h1, h2, h3')
+                if first_header:
+                    header_text = first_header.get_text(strip=True)
+                    current_storkreds = find_most_similar_storkreds(header_text)
+                    print(f"List header: {header_text} -> Storkreds: {current_storkreds}")
+                else:
+                    current_storkreds = None
+                    print(f"No header found in list {liste_index + 1}")
                 
-                # Special case mappings for header text to official names
-                if "Københavns Storkreds" in header_text and "Omegn" not in header_text:
-                    current_storkreds = "København Storkreds"  # Map "Københavns Storkreds" to "København Storkreds"
-                elif "Københavns Omegn" in header_text:
-                    current_storkreds = "Københavns Omegns"  # Map "Københavns Omegns Storkreds" to "Københavns Omegns"
-                elif "Sydjylland" in header_text:
-                    current_storkreds = "Sydjylland"  # Map "Sydjyllands Storkreds" to "Sydjylland"
+                # Find all politicians in this list
+                politicians_in_list = liste_element.select('.politiker')
+                print(f"Found {len(politicians_in_list)} politicians in this list")
                 
-                print(f"Header: {header_text} -> Storkreds: {current_storkreds}")
-            else:  # candidate
-                # Extract email
-                email = None
-                email_link = element.select_one('a[href^="mailto:"]')
-                if email_link:
-                    email = email_link['href'].replace('mailto:', '').strip()
-                
-                # Extract name
-                name = ''
-                container_text = element.get_text(' ', strip=True)
-                
-                if email:
-                    email_text_pos = container_text.find(email)
-                    if email_text_pos > 0:
-                        potential_name = container_text[:email_text_pos].strip()
-                        potential_name = ' '.join(potential_name.split())
-                        name_parts = potential_name.split()
-                        if len(name_parts) <= 4:  # Likely a name
-                            name = potential_name
-                
-                # Extract additional information
-                additional_info = ''
-                if email and email_text_pos > 0:
-                    additional_info = container_text[email_text_pos + len(email):].strip()
-                    additional_info = ' '.join(additional_info.split())
-                
-                # Create Candidate object using Pydantic model
-                try:
-                    candidate = Candidate(
-                        name=name,
-                        party='SF',
-                        email=email if email else None,
-                        storkreds=current_storkreds if current_storkreds else None,
-                        additional_info=additional_info if additional_info else None
-                    )
-                    candidates.append(candidate)
-                    print(f"Candidate: {candidate.name} - {candidate.email} - {candidate.storkreds}")
-                except Exception as e:
-                    print(f"Error creating candidate: {e}")
-                    print(f"Candidate data: name='{name}', email='{email}', storkreds='{current_storkreds}'")
+                # Process each politician in this list
+                for politician in politicians_in_list:
+                    # Extract email
+                    email = None
+                    email_link = politician.select_one('a[href^="mailto:"]')
+                    if email_link:
+                        email = email_link['href'].replace('mailto:', '').strip()
+                    
+                    # Extract name
+                    name = ''
+                    container_text = politician.get_text(' ', strip=True)
+                    
+                    if email:
+                        email_text_pos = container_text.find(email)
+                        if email_text_pos > 0:
+                            potential_name = container_text[:email_text_pos].strip()
+                            potential_name = ' '.join(potential_name.split())
+                            name_parts = potential_name.split()
+                            if len(name_parts) <= 4:  # Likely a name
+                                name = potential_name
+                    
+                    # Extract additional information
+                    additional_info = ''
+                    if email and email_text_pos > 0:
+                        additional_info = container_text[email_text_pos + len(email):].strip()
+                        additional_info = ' '.join(additional_info.split())
+                    
+                    # Create Candidate object using Pydantic model
+                    try:
+                        candidate = Candidate(
+                            name=name,
+                            party='SF',
+                            email=email if email else None,
+                            storkreds=current_storkreds if current_storkreds else None,
+                            additional_info=additional_info if additional_info else None
+                        )
+                        candidates.append(candidate)
+                        print(f"Candidate: {candidate.name} - {candidate.email} - {candidate.storkreds}")
+                    except Exception as e:
+                        print(f"Error creating candidate: {e}")
+                        print(f"Candidate data: name='{name}', email='{email}', storkreds='{current_storkreds}'")
+        else:
+            # Fallback to original logic if no politiker_liste elements found
+            print("No politiker_liste elements found, falling back to original logic")
+            
+            # Find all storkreds headers
+            storkreds_headers = soup.select('div.col-xs-12.politiker_overskrift.h1.text-left')
+            print(f"Found {len(storkreds_headers)} storkreds headers")
+            
+            # Find all candidate containers
+            candidate_containers = soup.select('div.politiker')
+            print(f"Found {len(candidate_containers)} candidate containers")
+            
+            # Create a list of all elements in order: headers and candidates
+            all_elements = []
+            
+            # Add headers to the list
+            for header in storkreds_headers:
+                all_elements.append(('header', header))
+            
+            # Add candidates to the list
+            for candidate in candidate_containers:
+                all_elements.append(('candidate', candidate))
+            
+            # Sort all elements by their position in the document
+            all_elements.sort(key=lambda x: x[1].sourceline if hasattr(x[1], 'sourceline') else 0)
+            
+            # Now process in order to assign storkreds
+            current_storkreds = ""
+            
+            for element_type, element in all_elements:
+                if element_type == 'header':
+                    # Extract storkreds from header using the utils function
+                    header_text = element.get_text(strip=True)
+                    current_storkreds = find_most_similar_storkreds(header_text)
+                    
+                    print(f"Header: {header_text} -> Storkreds: {current_storkreds}")
+                else:  # candidate
+                    # Extract email
+                    email = None
+                    email_link = element.select_one('a[href^="mailto:"]')
+                    if email_link:
+                        email = email_link['href'].replace('mailto:', '').strip()
+                    
+                    # Extract name
+                    name = ''
+                    container_text = element.get_text(' ', strip=True)
+                    
+                    if email:
+                        email_text_pos = container_text.find(email)
+                        if email_text_pos > 0:
+                            potential_name = container_text[:email_text_pos].strip()
+                            potential_name = ' '.join(potential_name.split())
+                            name_parts = potential_name.split()
+                            if len(name_parts) <= 4:  # Likely a name
+                                name = potential_name
+                    
+                    # Extract additional information
+                    additional_info = ''
+                    if email and email_text_pos > 0:
+                        additional_info = container_text[email_text_pos + len(email):].strip()
+                        additional_info = ' '.join(additional_info.split())
+                    
+                    # Create Candidate object using Pydantic model
+                    try:
+                        candidate = Candidate(
+                            name=name,
+                            party='SF',
+                            email=email if email else None,
+                            storkreds=current_storkreds if current_storkreds else None,
+                            additional_info=additional_info if additional_info else None
+                        )
+                        candidates.append(candidate)
+                        print(f"Candidate: {candidate.name} - {candidate.email} - {candidate.storkreds}")
+                    except Exception as e:
+                        print(f"Error creating candidate: {e}")
+                        print(f"Candidate data: name='{name}', email='{email}', storkreds='{current_storkreds}'")
         
         # Save results
         if candidates:

@@ -22,7 +22,7 @@ class Candidate(BaseModel):
     """
     name: str
     party: str
-    email: Optional[EmailStr] = None
+    email: Optional[str] = None
     storkreds: Optional[str] = None
     additional_info: Optional[str] = None
 
