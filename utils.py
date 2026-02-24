@@ -21,12 +21,17 @@ def find_most_similar_storkreds(input_string):
     Returns:
         str: The most similar storkreds name from storkredse.json, or None if ambiguous
     """
+    #print(f"Finding most similar storkreds for input: '{input_string}'")
+
     with open('storkredse.json', 'r', encoding='utf-8') as f:
         storkreds_list = json.load(f)
 
     if not input_string:
         return None
 
+    s = input_string.lower() # hack for redikale candidates with "Københavns storkreds" in the storkreds field, which should be matched to "Københavns" storkreds
+    if ("københavns" in s) and ("storkreds" in s) and ("omegns" not in s):
+        return "Københavns"
     # First pass: calculate scores for all storkreds
     scores = []
     for storkreds in storkreds_list:
