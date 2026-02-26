@@ -1,0 +1,534 @@
+[
+  {
+    "name": "Anastasia Milthers",
+    "party": "RV",
+    "email": "anastasia@radikalungdom.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Landsforperson for Radikal Ungdom, medlem af Hovedbestyrelsen (uden stemmeret) og Forretningsudvalget (uden stemmeret)"
+  },
+  {
+    "name": "Anne Marie Geisler Andersen",
+    "party": "RV",
+    "email": "amgeislerandersen@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat i Sydjyllands Storkreds"
+  },
+  {
+    "name": "Anne Sophie Callesen",
+    "party": "RV",
+    "email": "annesophiecallesen@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat i Østjyllands Storkreds"
+  },
+  {
+    "name": "Anne-Sofie Sadolin",
+    "party": "RV",
+    "email": "a.s.sadolin@outlook.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Medlem af Hovedbestyrelsen, Sjællands Storkreds"
+  },
+  {
+    "name": "Bjarke Jensen",
+    "party": "RV",
+    "email": "azkehmm@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat i Østjyllands Storkreds"
+  },
+  {
+    "name": "Bjarne Lastein",
+    "party": "RV",
+    "email": "bjarne@politik.design",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat i Sydjyllands Storkreds"
+  },
+  {
+    "name": "Brian Køster",
+    "party": "RV",
+    "email": "koester_brian@yahoo.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat i Københavns Omegns Storkreds, suppleant til Hovedbestyrelsen"
+  },
+  {
+    "name": "Carsten Bedsted",
+    "party": "RV",
+    "email": "cbedsted@gmail.com",
+    "storkreds": null,
+    "additional_info": "Folketingskandidat og spidskandidat i Nordjylland, opstillet i Hjørring-kredsen, Suppleant til Hovedbestyrelsen."
+  },
+  {
+    "name": "Casper Hindkjær",
+    "party": "RV",
+    "email": "casper.hindkjaer@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat i Vestjyllands Storkreds"
+  },
+  {
+    "name": "Christian Fink Elkjær",
+    "party": "RV",
+    "email": "c-elkjaer@hotmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Folketingskandidat, Nordsjællands Storkreds"
+  },
+  {
+    "name": "Christina Falkberg",
+    "party": "RV",
+    "email": "christina@falkberg.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat i Københavns Omegns Storkreds"
+  },
+  {
+    "name": "Christina Thorholm",
+    "party": "RV",
+    "email": "chrt@hillerod.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Viceborgmester i Hillerød Kommune"
+  },
+  {
+    "name": "Dorthe Kerschus",
+    "party": "RV",
+    "email": "dorthe@kerschus.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat i Nordjyllands Storkreds"
+  },
+  {
+    "name": "Edris Qasimi",
+    "party": "RV",
+    "email": "edris@radikale-lf.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Byrådsmedlem i Sorø"
+  },
+  {
+    "name": "Emil Moselund Østergaard",
+    "party": "RV",
+    "email": "emil_moselund@kk.dk",
+    "storkreds": null,
+    "additional_info": "Medlem af Borgerrepræsentation"
+  },
+  {
+    "name": "Emma Tretow-Fish",
+    "party": "RV",
+    "email": "wetche@hvanstrup.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Esat Sentürk",
+    "party": "RV",
+    "email": "esatsenturk@hotmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat i Københavns Omegns Storkreds"
+  },
+  {
+    "name": "Finn Hartvig Nielsen",
+    "party": "RV",
+    "email": "finn@finnnielsen.nu",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat i Sydjyllands Storkreds"
+  },
+  {
+    "name": "Frederik Rosberg",
+    "party": "RV",
+    "email": "frederikrosberg@gmail.com",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat i Københavns Storkreds"
+  },
+  {
+    "name": "Gorm Simonsen",
+    "party": "RV",
+    "email": "gorm@gormsimonsen.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Kommuneforperson i Brønderslev-Dronninglund"
+  },
+  {
+    "name": "Hanne Roed",
+    "party": "RV",
+    "email": "hanne.roed@rr.rm.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat i Østjyllands Storkreds, medlem af Hovedbestyrelsen (landsmødevalgt)"
+  },
+  {
+    "name": "Hediye Temiz",
+    "party": "RV",
+    "email": "htm@albertslund.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Kommunalbestyrelsesmedlem i Albertslund Kommune"
+  },
+  {
+    "name": "Helena Tjørnelund",
+    "party": "RV",
+    "email": "helena.politik@gmail.com",
+    "storkreds": null,
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Helene Langager",
+    "party": "RV",
+    "email": "helenelangager@gmail.com",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Isabel Havndrup Aackmann",
+    "party": "RV",
+    "email": "isaaac@frederiksberg.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Byrådsmedlem i Frederiksberg Kommune og medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Jacob Kjær Robsøe",
+    "party": "RV",
+    "email": "robsoe14@hotmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Medlem af Hovedbestyrelsen (landsmødevalgt)"
+  },
+  {
+    "name": "Jakob Larsen",
+    "party": "RV",
+    "email": "jakoblarsen1974@gmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat i Fyns Storkreds"
+  },
+  {
+    "name": "Jan Werner Mathiasen",
+    "party": "RV",
+    "email": "jwmathiasen5800@gmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Jens Frost",
+    "party": "RV",
+    "email": "jens.frost.pol@mail.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat i Københavns Omegns Storkreds"
+  },
+  {
+    "name": "Jeppe Fransson",
+    "party": "RV",
+    "email": "jeppefransson@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Medlem af Hovedbestyrelsen (landsmødevalgt)"
+  },
+  {
+    "name": "Jeppe Trolle",
+    "party": "RV",
+    "email": "jeppet@roskilde.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Byrådsmedlem i Roskilde Kommune, medlem af Hovedbestyrelsen (landsmødevalgt)"
+  },
+  {
+    "name": "Johan Brødsgaard",
+    "party": "RV",
+    "email": "johan.brodsgaard@silkeborg.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat, byrådsmedlem i Silkeborg Kommune, medlem af KL's bestyrelse, medlem af Hovedbestyrelsen (uden stemmeret)"
+  },
+  {
+    "name": "Julie Herdal Molbech",
+    "party": "RV",
+    "email": "julieherdal@gmail.com",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat i Københavns Storkreds"
+  },
+  {
+    "name": "Kashif Ahmad",
+    "party": "RV",
+    "email": "kashif@kashif.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Medlem af Borgerrepræsentationen, folketingskandidat i Københavns Omegns Storkreds"
+  },
+  {
+    "name": "Katrine Robsøe",
+    "party": "RV",
+    "email": "katrine.robsoe@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Uddannelsesordfører, miljøordfører, havmiljø- og naturordfører, fiskeriordfører, erhvervsordfører, medie-, idræt- og foreningsordfører, udviklingsordfører, medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Kim Lei-Jensen",
+    "party": "RV",
+    "email": "kim@lei-jensen.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat i Fyns Storkreds"
+  },
+  {
+    "name": "Kim Pagels",
+    "party": "RV",
+    "email": "kim.pagels@yahoo.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Kristian Stokholm",
+    "party": "RV",
+    "email": "stokholm@radikale-lf.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat i Sjællands Storkreds"
+  },
+  {
+    "name": "Lars Green Bach",
+    "party": "RV",
+    "email": "rv.lars.bach@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Byrådsmedlem i Ballerup Kommune"
+  },
+  {
+    "name": "Lasse Skov Ovesen",
+    "party": "RV",
+    "email": "skov.ovesen@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Kommuneformand i Aabenraa-Sønderborg"
+  },
+  {
+    "name": "Line Krogh Lay",
+    "party": "RV",
+    "email": "linekroghlay@outlook.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat i Sjællands Storkreds"
+  },
+  {
+    "name": "Line Rasmussen",
+    "party": "RV",
+    "email": "line.ras@live.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat i Østjyllands Storkreds"
+  },
+  {
+    "name": "Lotte Rod",
+    "party": "RV",
+    "email": "lotte.rod@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Børne- og undervisningsordfører, social- og boligordfører, kommunalordfører, ældreordfører, trivsel-, tillid- og frisættelsesordfører, medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Magnus Georg Jensen",
+    "party": "RV",
+    "email": "magnusgeorg@yahoo.com",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Maria Georgi Sloth",
+    "party": "RV",
+    "email": "maria.georgi@outlook.dk",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat i Københavns Storkreds, medlem af Forretningsudvalget, forperson for Folketingskandidatnetværket"
+  },
+  {
+    "name": "Marianne Mortensen",
+    "party": "RV",
+    "email": "mariannemortensen.radikal@pm.me",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat i Københavns Storkreds"
+  },
+  {
+    "name": "Marie Wandel",
+    "party": "RV",
+    "email": "planb@mariewandel.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Martin Lidegaard",
+    "party": "RV",
+    "email": "martin.lidegaard@ft.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Politisk leder, udenrigsordfører, ordfører for Nordiske anliggender, Arktis ordfører, EU-ordfører, medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Mathias Sikora",
+    "party": "RV",
+    "email": "sikora1500@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat i Østjyllands Storkreds"
+  },
+  {
+    "name": "Mette Hvid Brockmann",
+    "party": "RV",
+    "email": "mettehd@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat, kommuneformand"
+  },
+  {
+    "name": "Mia Nybo",
+    "party": "RV",
+    "email": "mia.nybo.jensen@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Byrådsmedlem i Favrskov Kommune"
+  },
+  {
+    "name": "Mikkel Senna Odoom",
+    "party": "RV",
+    "email": "senna@senna.dk",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat i Københavns Storkreds"
+  },
+  {
+    "name": "Mikkel Westh Jepsen",
+    "party": "RV",
+    "email": "mikkelwesthjepsen1@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Folketingskandidat i Nordsjællands Storkreds"
+  },
+  {
+    "name": "Nils Sjøberg",
+    "party": "RV",
+    "email": "sjoeberg.nils@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat i Sydjyllands Storkreds"
+  },
+  {
+    "name": "Ole Lynggaard Jørgensen",
+    "party": "RV",
+    "email": "olelynggaardj@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat i Sydjyllands Storkreds"
+  },
+  {
+    "name": "Peter Vestergaard",
+    "party": "RV",
+    "email": "kennelstarquality@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Byrådsmedlem i Struer Kommune"
+  },
+  {
+    "name": "Philip Vivet",
+    "party": "RV",
+    "email": "PhilipVivetRV@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Regionsrådsmedlem i Region Midtjylland og byrådsmedlem i Herning Kommune."
+  },
+  {
+    "name": "Pia Elberg",
+    "party": "RV",
+    "email": "pia.b.elberg@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat i Nordjyllands Storkreds, medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Rikke Christensen",
+    "party": "RV",
+    "email": "christensen0211@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat i Østjyllands Storkreds"
+  },
+  {
+    "name": "Ruben Kidde",
+    "party": "RV",
+    "email": "ruben@rubenkidde.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat i Gentofte,"
+  },
+  {
+    "name": "Rune Christiansen",
+    "party": "RV",
+    "email": "ruch@viauc.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat i Østjyllands Storkreds, medlem af Hovedbestyrelsen, medlem af Forretningsudvalget"
+  },
+  {
+    "name": "Samira Nawa",
+    "party": "RV",
+    "email": "samira.nawa@ft.dk",
+    "storkreds": "Københavns",
+    "additional_info": "Næstformand for folketingsgruppen, finansordfører, klima-, energi- og forsyningsordfører, skatteordfører, beskæftigelsesordfører, ligestillingsordfører, medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Simon Bech Munch-Petersen",
+    "party": "RV",
+    "email": "simonbech.mp@gmail.com",
+    "storkreds": "Bornholm",
+    "additional_info": "Folketingskandidat i Bornholms Storkreds"
+  },
+  {
+    "name": "Sofie Holm",
+    "party": "RV",
+    "email": "sofie.w.l.holm@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat i Sjællands Storkreds"
+  },
+  {
+    "name": "Steen Asgeir Petersen",
+    "party": "RV",
+    "email": "steenasgeirpetersen@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Kommuneformand Thy-Mors"
+  },
+  {
+    "name": "Steffen Holme Helledie",
+    "party": "RV",
+    "email": "steffen.helledie@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat i Nordjyllands Storkreds"
+  },
+  {
+    "name": "Stinus Lindgreen",
+    "party": "RV",
+    "email": "stinus.lindgreen@ft.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Sundheds- og forebyggelsesordfører, psykiatriordfører, transportordfører, ordfører for kollektiv transport, forsvarsordfører, IT- og digitaliseringsordfører, forskningsordfører, medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Susanne Krebs",
+    "party": "RV",
+    "email": "kronen46@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Thomas Markmann",
+    "party": "RV",
+    "email": "thomasmarkmann@gmail.com",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Thomas Rohden",
+    "party": "RV",
+    "email": "thomas_rohden@hotmail.com",
+    "storkreds": "Københavns",
+    "additional_info": "Folketingskandidat i Københavns Storkreds"
+  },
+  {
+    "name": "Tine Hessner",
+    "party": "RV",
+    "email": "tine.hessner@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Folketingskandidat i Nordsjællands Storkreds"
+  },
+  {
+    "name": "Torsten Wetche",
+    "party": "RV",
+    "email": "wetche@hvanstrup.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Trine Dybkjær",
+    "party": "RV",
+    "email": "tdybkjaer@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Byrådsmedlem i Gentofte Kommune"
+  },
+  {
+    "name": "Troels Brandt",
+    "party": "RV",
+    "email": "trbra@slagelse.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat i Sjællands Storkreds"
+  },
+  {
+    "name": "Zenia Stampe",
+    "party": "RV",
+    "email": "rvzest@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Kulturordfører, landbrugsordfører, udlændinge- og integrationsordfører, retsordfører, kirkeordfører, ordfører for landdistrikter, medlem af Hovedbestyrelsen"
+  },
+  {
+    "name": "Zohair Ali",
+    "party": "RV",
+    "email": "zohair_743@hotmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat"
+  }
+]
