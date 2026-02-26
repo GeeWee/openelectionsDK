@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Mette Frederiksen",
+    "party": "A",
+    "email": "formand@socialdemokratiet.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Statsminister og formand for Socialdemokratiet | Se | mere om"
+  },
+  {
+    "name": "Mogens Jensen",
+    "party": "A",
+    "email": "mogens.jensen@ft.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Næstformand | Gruppeledelsen | Tilforordnet | Ordførerskaber | Kulturordfører, idrætsordfører og medieordfører | om"
+  },
+  {
+    "name": "Anders Andreasen",
+    "party": "A",
+    "email": "anders-a@os.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Anders Kronborg",
+    "party": "A",
+    "email": "anders.kronborg@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingsmedlem | Gruppeledelsen | Medlem | Ordførerskaber | Skatteordfører og indfødsretordfører | Se | mere om"
+  },
+  {
+    "name": "Ane Halsboe-Jørgensen",
+    "party": "A",
+    "email": "min@skm.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Ane | Halsboe-Jørgensen | Skatteminister"
+  },
+  {
+    "name": "Anne Catherine Hoxcer Nielsen",
+    "party": "A",
+    "email": "ahox@varde.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Anne | Catherine Hoxcer Nielsen | Folketingskandidat"
+  },
+  {
+    "name": "Anne Paulin",
+    "party": "A",
+    "email": "anne.paulin@ft.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingsmedlem | Gruppeledelsen | Medlem | Ordførerskaber | Indenrigs- og kommunalordfører, boligordfører og ordfører for cirkulær økonomi | om"
+  },
+  {
+    "name": "Asbjørn Reissmann",
+    "party": "A",
+    "email": "asbjoern.reissmann@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Benny Engelbrecht",
+    "party": "A",
+    "email": "benny.engelbrecht@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingsmedlem | Gruppeledelsen | Gruppesekretær | Ordførerskaber | Finansordfører | Se | mere om"
+  },
+  {
+    "name": "Birgitte Vind",
+    "party": "A",
+    "email": "birgitte.vind@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingsmedlem | Gruppeledelsen | Medlem | Ordførerskaber | Verdensmålsordfører og digitaliseringsordfører | om"
+  },
+  {
+    "name": "Bjørn Brandenborg",
+    "party": "A",
+    "email": "bjoern.brandenborg@ft.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Retsordfører | Se | mere om"
+  },
+  {
+    "name": "Bjørn Laursen",
+    "party": "A",
+    "email": "bjoernlaursen@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Camilla Fabricius",
+    "party": "A",
+    "email": "camilla.fabricius@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Socialordfører | Se | mere om"
+  },
+  {
+    "name": "Carl Emil Lind",
+    "party": "A",
+    "email": "clc@dsu.net",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Christian Faurholdt Jeppesen",
+    "party": "A",
+    "email": "chfj@outlook.dk",
+    "storkreds": "Bornholm",
+    "additional_info": "Christian | Faurholdt Jeppesen | Folketingskandidat"
+  },
+  {
+    "name": "Christian Rabjerg Madsen",
+    "party": "A",
+    "email": "christian.rabjerg.madsen@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Christian Rabjerg | Madsen | Folketingsmedlem | Gruppeledelsen | Politisk ordfører | Ordførerskaber | Politisk ordfører"
+  },
+  {
+    "name": "Dorthe Hindborg",
+    "party": "A",
+    "email": "dorthe.skanderborg.odder.samsoe@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Erik Jensen",
+    "party": "A",
+    "email": "erje1234@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Eva Borchorst Mejnertz",
+    "party": "A",
+    "email": "eva_mejnertz@hotmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Eva Borchorst | Mejnertz | Folketingskandidat"
+  },
+  {
+    "name": "Fie Hækkerup",
+    "party": "A",
+    "email": "fie.haekkerup@ft.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Folketingsmedlem | om"
+  },
+  {
+    "name": "Filiz Sarah Thunø",
+    "party": "A",
+    "email": "filiz.thunoe@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Flemming Møller Mortensen",
+    "party": "A",
+    "email": "sflmm@ft.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Flemming Møller | Mortensen | Folketingsmedlem | Ordførerskaber | Udenrigs- og udviklingsordfører og Grønlandsordfører"
+  },
+  {
+    "name": "Frederik Vad",
+    "party": "A",
+    "email": "frederik.vad@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Udlændinge- og integrationsordfører og pensionsordfører | om"
+  },
+  {
+    "name": "Gunvor Wibroe",
+    "party": "A",
+    "email": "gwibroe@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Ligestillingsordfører, LGBTQ+ ordfører samt ordfører for frivillighed. | om"
+  },
+  {
+    "name": "Henrik Møller",
+    "party": "A",
+    "email": "henrik.moller@ft.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Europaordfører | Se | mere om"
+  },
+  {
+    "name": "Ida Auken",
+    "party": "A",
+    "email": "ida.auken@ft.dk",
+    "storkreds": "København",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Grøn trepartsordfører, ordfører for hovedstad og byer og landbrugsordfører"
+  },
+  {
+    "name": "Jarl Feyling",
+    "party": "A",
+    "email": "jarlfeyling@gmail.com",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Jens Anton Tingstrøm",
+    "party": "A",
+    "email": "jatklinken@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Jens Anton | Tingstrøm | Folketingskandidat"
+  },
+  {
+    "name": "Jeppe Bruus",
+    "party": "A",
+    "email": "min@mgtp.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Minister for Grøn Trepart | om"
+  },
+  {
+    "name": "Jesper Petersen",
+    "party": "A",
+    "email": "jesper.petersen@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Klima-, energi- og forsyningsordfører | Se | mere om"
+  },
+  {
+    "name": "Julie Kølskov",
+    "party": "A",
+    "email": "julie@kølskov.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Kaare Dybvad",
+    "party": "A",
+    "email": "kaare.dybvad@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Beskæftigelsesminister | om"
+  },
+  {
+    "name": "Kanishka Dastageer",
+    "party": "A",
+    "email": "kanishka.dastageer@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Kasper B. G. Lauritsen",
+    "party": "A",
+    "email": "kasper200287@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Kasper B. G. | Lauritsen | Folketingskandidat"
+  },
+  {
+    "name": "Kasper Flygare",
+    "party": "A",
+    "email": "kasper.flygare@gmail.com",
+    "storkreds": "Bornholm",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Kasper Roug",
+    "party": "A",
+    "email": "kasper.roug@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Beredskabs- og veteranordfører | om"
+  },
+  {
+    "name": "Katrine Evelyn Jensen",
+    "party": "A",
+    "email": "katrineevelyn@hotmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Katrine Evelyn | Jensen | Folketingskandidat"
+  },
+  {
+    "name": "Kiki Bille Bach",
+    "party": "A",
+    "email": "kiki_bach@hotmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Kim Aas",
+    "party": "A",
+    "email": "kim.aas@ft.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Kirkeordfører og ordfører for øer"
+  },
+  {
+    "name": "Kim Eskesen",
+    "party": "A",
+    "email": "kim_eskesen@msn.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Kris Jensen Skriver",
+    "party": "A",
+    "email": "kris.skriver@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Kris Jensen | Skriver | Folketingsmedlem"
+  },
+  {
+    "name": "Lars Fibæk",
+    "party": "A",
+    "email": "larsfibak@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Lars Rømer Olsen",
+    "party": "A",
+    "email": "larsro41@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingkandidat | Se | mere om"
+  },
+  {
+    "name": "Lasse Haugaard Pedersen",
+    "party": "A",
+    "email": "lasse.haugaard.pedersen@gmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "Lasse Haugaard | Pedersen | Folketingsmedlem"
+  },
+  {
+    "name": "Lea Wermelin",
+    "party": "A",
+    "email": "lea.wermelin@ft.dk",
+    "storkreds": "Bornholm",
+    "additional_info": "Folketingsmedlem | Gruppeledelsen | Medlem | Ordførerskaber | Sundhedsordfører og epidemiordfører | om"
+  },
+  {
+    "name": "Leif Lahn Jensen",
+    "party": "A",
+    "email": "leif.jensen@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingsmedlem | Gruppeledelsen | Gruppeformand | Se | mere om"
+  },
+  {
+    "name": "Lise Jørgensen",
+    "party": "A",
+    "email": "lisejor67@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Louise Mehnke",
+    "party": "A",
+    "email": "louisemehnke@outlook.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Louise Stenmann",
+    "party": "A",
+    "email": "stenmann04@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Magnus Barsøe",
+    "party": "A",
+    "email": "magnus.barsoe@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Magnus Heunicke",
+    "party": "A",
+    "email": "miljoeministeren@mim.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Miljøminister og minister for ligestilling | Se | mere om"
+  },
+  {
+    "name": "Malte Larsen",
+    "party": "A",
+    "email": "malte.larsen@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Iværksætterordfører | om"
+  },
+  {
+    "name": "Maria Durhuus",
+    "party": "A",
+    "email": "maria.durhuus@ft.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Misbrugsordfører, ældreordfører og ordfører for §71-tilsynet | om"
+  },
+  {
+    "name": "Maria Gudme",
+    "party": "A",
+    "email": "mariagudme@icloud.com",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Maria Radoor",
+    "party": "A",
+    "email": "mariaradoor@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Matilde Powers",
+    "party": "A",
+    "email": "matilde.powers@ft.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Ordfører for gymnasie-, erhvervs- og voksenuddannelse, forebyggelsesordfører og ordfører for | unges trivsel | Se | mere om"
+  },
+  {
+    "name": "Mattias Tesfaye",
+    "party": "A",
+    "email": "minister@uvm.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Børne- og undervisningsminister | Se | mere om"
+  },
+  {
+    "name": "Mette Reissmann",
+    "party": "A",
+    "email": "mette.reissmann@ft.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Erhvervsordfører | Se | mere om"
+  },
+  {
+    "name": "Morten Bødskov",
+    "party": "A",
+    "email": "smorb@ft.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Erhvervsminister | Se | mere om"
+  },
+  {
+    "name": "Morten Ryom",
+    "party": "A",
+    "email": "ryom18@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Nicolai Wammen",
+    "party": "A",
+    "email": "minister@fm.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Finansminister | Se | mere om"
+  },
+  {
+    "name": "Peder Key Kristiansen",
+    "party": "A",
+    "email": "peder.key.kristiansen@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Peder Key | Kristiansen | Folketingskandidat"
+  },
+  {
+    "name": "Per Husted",
+    "party": "A",
+    "email": "Per.husted@ft.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Ordfører for innovation og kunstig intelligens, telekommunikationsordfører og Færøordfærer"
+  },
+  {
+    "name": "Per Stefansen",
+    "party": "A",
+    "email": "stefansen1967@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Peter Hummelgaard",
+    "party": "A",
+    "email": "pehu@jm.dk",
+    "storkreds": "København",
+    "additional_info": "Justitsminister | Se | mere om"
+  },
+  {
+    "name": "Rasmus Horn Langhoff",
+    "party": "A",
+    "email": "rasmus.langhoff@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Rasmus Horn | Langhoff | Folketingsmedlem | Gruppeledelsen | Gruppenæstformand | Ordførerskaber | Psykiatriordfører og ordfører for Udvalget til Valgs Prøvelse"
+  },
+  {
+    "name": "Rasmus Stoklund",
+    "party": "A",
+    "email": "srast@ft.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Udlændinge- og integrationsminister | Se | mere om"
+  },
+  {
+    "name": "Sara Emil Baaring",
+    "party": "A",
+    "email": "sara.baaring@ft.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Børne- og skoleordfører | Se | mere om"
+  },
+  {
+    "name": "Simon Kollerup",
+    "party": "A",
+    "email": "simon.kollerup@ft.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Forsvars- og hjemmeværnsordfører | Se | mere om"
+  },
+  {
+    "name": "Sofie de Bretteville Olsen",
+    "party": "A",
+    "email": "sofie.de.bretteville.olsen@regionh.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Sofie de | Bretteville Olsen | Folketingskandidat"
+  },
+  {
+    "name": "Sophie Hæstorp Andersen",
+    "party": "A",
+    "email": "ssoha@icloud.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "Sophie Hæstorp | Andersen | Social- og boligminister"
+  },
+  {
+    "name": "Søren Rye",
+    "party": "A",
+    "email": "spro.155@hotmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "Folketingkandidat"
+  },
+  {
+    "name": "Stig Ekman",
+    "party": "A",
+    "email": "stig@strecker-ekman.dk",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Tanja Larsson",
+    "party": "A",
+    "email": "tanja.larsson@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingsmedlem | Ordførerskaber | Turismeordfører og ordblindeordfører | om"
+  },
+  {
+    "name": "Theis Kylling Hommeltoft",
+    "party": "A",
+    "email": "theis.hommeltoft@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Theis Kylling | Hommeltoft | Folketingskandidat"
+  },
+  {
+    "name": "Thomas Klimek",
+    "party": "A",
+    "email": "klimek71@hotmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat | om"
+  },
+  {
+    "name": "Thomas Monberg",
+    "party": "A",
+    "email": "thomas.monberg@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingsmedlem | Gruppeledelsen | Medlem | Ordførerskaber | Miljøordfører, postordfører og ordfører vedr. etisk råd | Se | mere om"
+  },
+  {
+    "name": "Thomas Skriver Jensen",
+    "party": "A",
+    "email": "thomas.skriver@ft.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Thomas Skriver | Jensen | Folketingsmedlem | Ordførerskaber | Fødevarerordfører"
+  },
+  {
+    "name": "Tommi Christensen",
+    "party": "A",
+    "email": "tschristensen@mail.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Trine Birk Andersen",
+    "party": "A",
+    "email": "trine_birk@yahoo.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Trine Birk | Andersen | Regionsrådsformand"
+  },
+  {
+    "name": "Trine Bramsen",
+    "party": "A",
+    "email": "trine.bramsen@ft.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingsmedlem | Gruppeledelsen | Gruppenæstformand | Ordførerskaber | Uddannelses- og forskningsordfører og familieordfører | om"
+  },
+  {
+    "name": "Valdemar Alban",
+    "party": "A",
+    "email": "valbansocialdemokratiet@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Vinnie Borbjerg",
+    "party": "A",
+    "email": null,
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat | Se | mere om"
+  },
+  {
+    "name": "Yildiz Akdogan",
+    "party": "A",
+    "email": null,
+    "storkreds": null,
+    "additional_info": "Folketingsmedlem | Se | mere om"
+  }
+]
