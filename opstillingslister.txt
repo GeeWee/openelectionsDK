@@ -1,18 +1,10 @@
-Socialdemokratiet
-?
+Done:
+Socialdemokratiet [x]
+Radikale Venstre [x]
+Socialistisk Folkepart [x]
+Venstre [x]
 
-Radikale Venstre
-https://www.radikale.dk/find-din-kandidat/
-- Storkreds has a URL in the sidebar to use
-
-Det Konservative Folkeparti
-https://konservative.dk/folketingskandidater/
-- Storkreds not listed
-
-Socialistisk Folkeparti (SF)
-https://sf.dk/dine-politikere/folketingskandidater-2026/
-- Storkreds listed as headers
-
+-- not done
 
 Borgernes Parti
 https://borgernesparti.dk/kandidater/
@@ -32,10 +24,6 @@ Dansk Folkeparti
 https://danskfolkeparti.dk/kandidater/
 - Storkreds is listed under each politician
 
-Venstre
-https://www.venstre.dk/personer/folketingskandidater
-- Don't bother retrieving Storkreds here
-
 Danmarksdemokraterne
 https://danmarksdemokraterne.dk/forside/folketingskandidater/
 - The storkeds is listed under each politician
@@ -48,3 +36,7 @@ Alternativet
 https://www.alternativet.dk/personer/folketingskandidater
 - The storkreds is a header, and then candidates for that storkreds is listed
 underneath
+
+Det Konservative Folkeparti
+https://konservative.dk/folketingskandidater/
+- Storkreds not listed
