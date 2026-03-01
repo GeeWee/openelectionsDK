@@ -3,6 +3,8 @@ Socialdemokratiet [x]
 Radikale Venstre [x]
 Socialistisk Folkepart [x]
 Venstre [x]
+Moderaterne [x]
+Enhedslisten [x]
 
 -- not done
 
@@ -27,10 +29,6 @@ https://danskfolkeparti.dk/kandidater/
 Danmarksdemokraterne
 https://danmarksdemokraterne.dk/forside/folketingskandidater/
 - The storkeds is listed under each politician
-
-Enhedslisten
-https://enhedslisten.dk/politikere/folketingsvalg-2026/
-- need to click in on the names to get the storkreds
 
 Alternativet
 https://www.alternativet.dk/personer/folketingskandidater
