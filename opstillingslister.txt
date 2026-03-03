@@ -5,6 +5,7 @@ Socialistisk Folkepart [x]
 Venstre [x]
 Moderaterne [x]
 Enhedslisten [x]
+Det Konservative Folkeparti [x]
 
 -- not done
 
@@ -34,7 +35,3 @@ Alternativet
 https://www.alternativet.dk/personer/folketingskandidater
 - The storkreds is a header, and then candidates for that storkreds is listed
 underneath
-
-Det Konservative Folkeparti
-https://konservative.dk/folketingskandidater/
-- Storkreds not listed
