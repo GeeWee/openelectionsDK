@@ -1,0 +1,541 @@
+[
+  {
+    "name": "Kristoffer Kromand",
+    "party": "K",
+    "email": "kristofferkromand@yahoo.dk",
+    "storkreds": "Bornholm",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Mai Mercado",
+    "party": "K",
+    "email": "mai.mercado@ft.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingsmedlem"
+  },
+  {
+    "name": "Joachim Hoffmann-Petersen",
+    "party": "K",
+    "email": "joth@odense.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingsmedlem"
+  },
+  {
+    "name": "Klavs Norup Lauridsen",
+    "party": "K",
+    "email": "kks@kerteminde.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Kerteminde Kommune"
+  },
+  {
+    "name": "Anne Fiber",
+    "party": "K",
+    "email": null,
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Kerteminde Kommune"
+  },
+  {
+    "name": "Johan Emil Sevelsted",
+    "party": "K",
+    "email": "je.sevelsted@gmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Svendborg Kommune"
+  },
+  {
+    "name": "John Hoppe",
+    "party": "K",
+    "email": "joh@vinforsyning.dk",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Natasja Bruun Knudsen",
+    "party": "K",
+    "email": "natasjabknudsen@gmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Tobias Bennedsen",
+    "party": "K",
+    "email": "tobias.bennedsen@gmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Tina Cartey Hansen",
+    "party": "K",
+    "email": "tinacartey@gmail.com",
+    "storkreds": "Københavns Omegn",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Hvidovre Kommune"
+  },
+  {
+    "name": "Magnus Von Dreiager",
+    "party": "K",
+    "email": "mvd@dreiager.dk",
+    "storkreds": "Københavns Omegn",
+    "additional_info": "Folketingskandidat, By- og regionsrådsmedlem, Lyngby-Taarbæk Kommune og Region Hovedstaden"
+  },
+  {
+    "name": "Isabella Arendt",
+    "party": "K",
+    "email": "isabella@konservative.dk",
+    "storkreds": "Københavns Omegn",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Dorte Vilhelmsen",
+    "party": "K",
+    "email": "dorte@dortevilhelmsen.dk",
+    "storkreds": "Københavns Omegn",
+    "additional_info": "Folketingskandidat, By- og regionsrådsmedlem, Herlev Kommune og Region Hovedstaden"
+  },
+  {
+    "name": "Christian Vigilius",
+    "party": "K",
+    "email": "christian@holstvigilius.dk",
+    "storkreds": "Københavns Omegn",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Jette Larsen",
+    "party": "K",
+    "email": "jettelouises@gmail.com",
+    "storkreds": "Københavns Omegn",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Rødovre Kommune"
+  },
+  {
+    "name": "Sigurd Hebo Lønholdt",
+    "party": "K",
+    "email": "sigurd.loenholdt@gmail.com",
+    "storkreds": "Københavns Omegn",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Helle Bonnesen",
+    "party": "K",
+    "email": "helle.bonnesen@ft.dk",
+    "storkreds": "København",
+    "additional_info": "Folketingsmedlem"
+  },
+  {
+    "name": "Line Ervolder",
+    "party": "K",
+    "email": "line.ervolder@konservative.dk",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat, By- og regionsrådsmedlem, Københavns Kommune og Region Hovedstaden"
+  },
+  {
+    "name": "Anders Storgaard",
+    "party": "K",
+    "email": "andersstorgaard@konservative.dk",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Frederiksberg Kommune"
+  },
+  {
+    "name": "Anders Havelund Krøyer",
+    "party": "K",
+    "email": "anders.k.lauritzen@gmail.com",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Carina Høedt",
+    "party": "K",
+    "email": "carinahoeedt@gmail.com",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Frederiksberg Kommune"
+  },
+  {
+    "name": "Helene Fagerhøj",
+    "party": "K",
+    "email": "helenefagerhoj@gmail.com",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Mia Tang",
+    "party": "K",
+    "email": "mia@miatang.dk",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Dragør Kommune"
+  },
+  {
+    "name": "Niels Peder Ravn",
+    "party": "K",
+    "email": "n_p_ravn@hotmail.com",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat, Medlem af Borgerrepræsentationen, Københavns Kommune"
+  },
+  {
+    "name": "Nikolaj Bøgh",
+    "party": "K",
+    "email": "nibo04@frederiksberg.dk",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Frederiksberg Kommune"
+  },
+  {
+    "name": "Rasmus Bjergegaard",
+    "party": "K",
+    "email": "rasmustb@proton.me",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Rico Djernis",
+    "party": "K",
+    "email": "rico@djernis.dk",
+    "storkreds": "København",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Per Larsen",
+    "party": "K",
+    "email": "per.Larsen@ft.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingsmedlem og regionsrådsmedlem, Region Nordjylland"
+  },
+  {
+    "name": "Laura Holm",
+    "party": "K",
+    "email": "lauraholmchristensen@yahoo.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Mariagerfjord Kommune"
+  },
+  {
+    "name": "Lene Burchardt",
+    "party": "K",
+    "email": "Lene.burchardt@icloud.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "René Nielsen",
+    "party": "K",
+    "email": "privat@nxm-solutions.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Sofie Therese Svendsen",
+    "party": "K",
+    "email": "sofiesvendsen02@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Aalborg Kommune"
+  },
+  {
+    "name": "Søren Homann",
+    "party": "K",
+    "email": "soren@hoco.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Hjørring Kommune"
+  },
+  {
+    "name": "Stine Thier-Andersen",
+    "party": "K",
+    "email": "stinethierandersen@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Ida Dyhr",
+    "party": "K",
+    "email": "idadyhr@hotmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Lejre Kommune"
+  },
+  {
+    "name": "Barbara Engelstoft",
+    "party": "K",
+    "email": "bengelstoft@yahoo.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Henrik Jacobsen",
+    "party": "K",
+    "email": "henrik.jacobsen@c.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Lolland Kommune"
+  },
+  {
+    "name": "Jacob Stryhn",
+    "party": "K",
+    "email": "jacob@jacobstryhn.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Jane Christensen",
+    "party": "K",
+    "email": "janechris@live.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Marcus Knuth",
+    "party": "K",
+    "email": "marcus.knuth@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Victoria Helene Olsen",
+    "party": "K",
+    "email": "v.helene.olsen@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Roskilde Kommune"
+  },
+  {
+    "name": "Vilhelm Møller",
+    "party": "K",
+    "email": "vilhelmmollerpolitik@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Mette Abildgaard",
+    "party": "K",
+    "email": "mette.abildgaard@ft.dk",
+    "storkreds": "nordsjælland",
+    "additional_info": "Politisk ordfører, Folketingsmedlem og Folketingskandidat i Nordsjælland"
+  },
+  {
+    "name": "Birgitte Bergman",
+    "party": "K",
+    "email": "bberg@helsingor.dk",
+    "storkreds": "nordsjælland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Helsingør Kommune, Fhv. Folketingsmedlem"
+  },
+  {
+    "name": "Egil Hulgaard",
+    "party": "K",
+    "email": "stem@egilhulgaard.dk",
+    "storkreds": "nordsjælland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Furesø Kommune"
+  },
+  {
+    "name": "Emma Juul Hansen",
+    "party": "K",
+    "email": "emma@juulhansen1.dk",
+    "storkreds": "nordsjælland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Frederik Germann",
+    "party": "K",
+    "email": "frederikgermann@live.dk",
+    "storkreds": "nordsjælland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Halsnæs Kommune"
+  },
+  {
+    "name": "Frederik Bloch Münster",
+    "party": "K",
+    "email": "frederik.munster@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingsmedlem"
+  },
+  {
+    "name": "Christina Foldager",
+    "party": "K",
+    "email": "christinafoldager@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem Kolding Kommune"
+  },
+  {
+    "name": "Dan Arnløv Jørgensen",
+    "party": "K",
+    "email": "daajo@vejle.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Vejle Kommune"
+  },
+  {
+    "name": "Gitte Eriksen",
+    "party": "K",
+    "email": "konservativgitteeriksen@hotmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Jannie Boysen Westergaard",
+    "party": "K",
+    "email": "jannieboysen@hotmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Haderslev Kommune"
+  },
+  {
+    "name": "Jens Langer Schou",
+    "party": "K",
+    "email": "Jenslangerschou@icloud.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Kristian Thomsen",
+    "party": "K",
+    "email": "kristian@bjerggaarde.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Morten Trillingsgaard Høybye",
+    "party": "K",
+    "email": null,
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Rasmus Sandvej",
+    "party": "K",
+    "email": "malikrabben@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Mona Juul",
+    "party": "K",
+    "email": "mona.juul@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Partiformand, Gruppeformand & Folketingsmedlem"
+  },
+  {
+    "name": "Anders Krojgaard Lund",
+    "party": "K",
+    "email": "AKLU@Horsens.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Horsens Kommune"
+  },
+  {
+    "name": "Bia Ndamukunda",
+    "party": "K",
+    "email": "ndamukundadk@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Bjørn Jensen",
+    "party": "K",
+    "email": "bjorn.jensen@live.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat og Byrådsmedlem, Syddjurs Kommune"
+  },
+  {
+    "name": "Caroline Svejsø",
+    "party": "K",
+    "email": "carosvejso@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Charlotte Green",
+    "party": "K",
+    "email": "charlotte@greenhesel.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingsvalg, Byrådsmedlem, Favrskov Kommune"
+  },
+  {
+    "name": "Jacob Skjærris",
+    "party": "K",
+    "email": "skjerris@hotmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Michael Faust Horsbøl",
+    "party": "K",
+    "email": "michaelfausth@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Morten Ballegaard Sørensen",
+    "party": "K",
+    "email": "mortensorensen@outlook.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Peter Sporleder",
+    "party": "K",
+    "email": "sporleder1711@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Aarhus Kommune"
+  },
+  {
+    "name": "Viktor Thyregod Sivertsen",
+    "party": "K",
+    "email": "Sivertsen.ku@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Lise Bertelsen",
+    "party": "K",
+    "email": "lise.bertelsen@ft.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingsmedlem og byrådsmedlem i Viborg Kommune"
+  },
+  {
+    "name": "Dina Raabjerg",
+    "party": "K",
+    "email": "dina.raabjerg@ft.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingsmedlem"
+  },
+  {
+    "name": "Marianne Karlsmose",
+    "party": "K",
+    "email": "marianne.karlsmose@konservative.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Gorm Hoff Lauridsen",
+    "party": "K",
+    "email": "gormhoff@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Jørgen Christian Pedersen",
+    "party": "K",
+    "email": "jcp.car@pool.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Lau Sørensen",
+    "party": "K",
+    "email": null,
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat, Regionsrådsmedlem, Region Midtjylland"
+  },
+  {
+    "name": "Lennart Qvist",
+    "party": "K",
+    "email": "lennart.qvist@byr.rksk.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Ringkøbing-Skjern Kommune"
+  },
+  {
+    "name": "Michael Grove",
+    "party": "K",
+    "email": "michael@michaelgrove.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat, Byrådsmedlem, Viborg Kommune"
+  },
+  {
+    "name": "Nicklas Verne",
+    "party": "K",
+    "email": "nicklas@verne.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat"
+  },
+  {
+    "name": "Siff Tang Lassen",
+    "party": "K",
+    "email": "siff040402@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "Folketingskandidat"
+  }
+]
