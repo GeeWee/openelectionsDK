@@ -6,6 +6,7 @@ Venstre [x]
 Moderaterne [x]
 Enhedslisten [x]
 Det Konservative Folkeparti [x]
+Alternativet [x]
 
 -- not done
 
@@ -31,7 +32,4 @@ Danmarksdemokraterne
 https://danmarksdemokraterne.dk/forside/folketingskandidater/
 - The storkeds is listed under each politician
 
-Alternativet
-https://www.alternativet.dk/personer/folketingskandidater
-- The storkreds is a header, and then candidates for that storkreds is listed
-underneath
+
