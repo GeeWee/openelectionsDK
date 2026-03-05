@@ -7,6 +7,7 @@ Moderaterne [x]
 Enhedslisten [x]
 Det Konservative Folkeparti [x]
 Alternativet [x]
+Liberal Alliance [x]
 
 -- not done
 
@@ -14,15 +15,6 @@ Borgernes Parti
 https://borgernesparti.dk/kandidater/
 - storkreds listed under each politician
 
-
-Liberal Alliance
-?
-
-
-Moderaterne
-https://moderaterne.dk/politikere/fv26-kandidat/
-- Storkreds is listed under each politician
-- Note that there is pagination
 
 Dansk Folkeparti
 https://danskfolkeparti.dk/kandidater/
