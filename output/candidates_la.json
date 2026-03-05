@@ -1,0 +1,765 @@
+[
+  {
+    "name": "Alex Vanopslagh",
+    "party": "LA",
+    "email": "alex.vanopslagh@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Sólbjørg Jakobsen",
+    "party": "LA",
+    "email": "solbjoerg.jakobsen@ft.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "61624922"
+  },
+  {
+    "name": "Ole Birk Olesen",
+    "party": "LA",
+    "email": "ole.birk@ft.dk",
+    "storkreds": "København",
+    "additional_info": "61625176"
+  },
+  {
+    "name": "Katrine Daugaard",
+    "party": "LA",
+    "email": "katrine.daugaard@ft.dk",
+    "storkreds": "Fyn",
+    "additional_info": null
+  },
+  {
+    "name": "Steffen Frølund",
+    "party": "LA",
+    "email": "steffen.froelund@ft.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "61624887"
+  },
+  {
+    "name": "Pernille Vermund",
+    "party": "LA",
+    "email": "pernille.vermund@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "61624864"
+  },
+  {
+    "name": "Steffen Larsen",
+    "party": "LA",
+    "email": "steffen.larsen@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "61624975"
+  },
+  {
+    "name": "Carsten Bach",
+    "party": "LA",
+    "email": "carsten.bach@ft.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "61624888"
+  },
+  {
+    "name": "Freja Brandhøj",
+    "party": "LA",
+    "email": "frejabrandhoej@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "60536225"
+  },
+  {
+    "name": "Eik Dahl Bidstrup",
+    "party": "LA",
+    "email": "eik@specialistdanmark.dk",
+    "storkreds": "Bornholm",
+    "additional_info": "40330777"
+  },
+  {
+    "name": "Jens Meilvang",
+    "party": "LA",
+    "email": "jens.meilvang@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "61624964"
+  },
+  {
+    "name": "Louise Brown",
+    "party": "LA",
+    "email": "louise.brown@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "61624965"
+  },
+  {
+    "name": "Kim Alexander Jensen",
+    "party": "LA",
+    "email": "kontakt@kimaj.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "22804080"
+  },
+  {
+    "name": "Helena Artmann Andresen",
+    "party": "LA",
+    "email": "helena.andresen@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "61624901"
+  },
+  {
+    "name": "Joachim Riis",
+    "party": "LA",
+    "email": "joachim_riis@hotmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "23364070"
+  },
+  {
+    "name": "Lars-Christian Brask",
+    "party": "LA",
+    "email": "lars-christian.brask@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "61624888"
+  },
+  {
+    "name": "Helle Jensen",
+    "party": "LA",
+    "email": "Viborghellejensen@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "26143946"
+  },
+  {
+    "name": "Thorbjørn Jacobsen",
+    "party": "LA",
+    "email": "thorbjornfuttrupjacobsen@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "23656105"
+  },
+  {
+    "name": "Jonas Juhl",
+    "party": "LA",
+    "email": "jonas.juhl.dk@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "50557141"
+  },
+  {
+    "name": "Mads Strange",
+    "party": "LA",
+    "email": "mvaarby@gmail.com",
+    "storkreds": "København",
+    "additional_info": "22113534"
+  },
+  {
+    "name": "Christopher Arzrouni",
+    "party": "LA",
+    "email": "charzrouni@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "61979055"
+  },
+  {
+    "name": "HP Beck",
+    "party": "LA",
+    "email": "hpabeck@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "22981107"
+  },
+  {
+    "name": "Kenneth Skatka Hammer",
+    "party": "LA",
+    "email": "kenneth.s.hammer@la-njl.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "22999000"
+  },
+  {
+    "name": "Malte Jäger",
+    "party": "LA",
+    "email": "maltejager@gmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "42318293"
+  },
+  {
+    "name": "Pia Offer Madsen",
+    "party": "LA",
+    "email": "Pia@offermadsen.dk",
+    "storkreds": "Fyn",
+    "additional_info": "81752875"
+  },
+  {
+    "name": "Martin Lissner",
+    "party": "LA",
+    "email": "issner86@hotmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "30868396"
+  },
+  {
+    "name": "Tonny Vest",
+    "party": "LA",
+    "email": "tonnyvest@icloud.com",
+    "storkreds": "Fyn",
+    "additional_info": "30578878"
+  },
+  {
+    "name": "Thomas Estrup",
+    "party": "LA",
+    "email": "estrup.thomas@icloud.com",
+    "storkreds": "Fyn",
+    "additional_info": "23304079"
+  },
+  {
+    "name": "Gustav Wilde",
+    "party": "LA",
+    "email": "wilde12w@gmail.com",
+    "storkreds": "Fyn",
+    "additional_info": "60797983"
+  },
+  {
+    "name": "Araz Khan",
+    "party": "LA",
+    "email": "araz2@mail.com",
+    "storkreds": "Fyn",
+    "additional_info": "40608361"
+  },
+  {
+    "name": "Anders Peter Hansen",
+    "party": "LA",
+    "email": "aph1995@hotmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "52586580"
+  },
+  {
+    "name": "Kim Gaarsdahl",
+    "party": "LA",
+    "email": "kim@gaarsdahl.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "53705038"
+  },
+  {
+    "name": "Bo Ritterbusch",
+    "party": "LA",
+    "email": "bo@ritterbusch.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "21947868"
+  },
+  {
+    "name": "Mark Hellerup",
+    "party": "LA",
+    "email": "cmcvine@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "22272629"
+  },
+  {
+    "name": "Kresten Solvang Larsen",
+    "party": "LA",
+    "email": "kresten@outlook.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "60262636"
+  },
+  {
+    "name": "Thomas Heuniche",
+    "party": "LA",
+    "email": "theuniche@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "31696904"
+  },
+  {
+    "name": "Jimmy Abel Nielsen",
+    "party": "LA",
+    "email": "jimmy_abel@protonmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "31790188"
+  },
+  {
+    "name": "Frederik Blicher Pedersen",
+    "party": "LA",
+    "email": "frederikpedersen1@live.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "53388553"
+  },
+  {
+    "name": "Claus Beck",
+    "party": "LA",
+    "email": "clausbeck@msn.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "31385977"
+  },
+  {
+    "name": "Dan Rueskov Gaardboe",
+    "party": "LA",
+    "email": "dan.rueskov@la-njl.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "22282353"
+  },
+  {
+    "name": "Thomas Christiansen",
+    "party": "LA",
+    "email": "thomas.christiansen@la-njl.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "24457503"
+  },
+  {
+    "name": "Sara Tvilling",
+    "party": "LA",
+    "email": "saratvillingla@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "29703451"
+  },
+  {
+    "name": "Rikke Olssen",
+    "party": "LA",
+    "email": "rikke.olssen@la-njl.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": "28841474"
+  },
+  {
+    "name": "Peter Larsen",
+    "party": "LA",
+    "email": "petlar1971@yahoo.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "25101794"
+  },
+  {
+    "name": "Lukas Vestergaard",
+    "party": "LA",
+    "email": "lukasvestergaard2007@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": "42339728"
+  },
+  {
+    "name": "Chelle Lilly Albøge",
+    "party": "LA",
+    "email": "kontakt@chellelilly.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": "25111335"
+  },
+  {
+    "name": "Philip Solberg",
+    "party": "LA",
+    "email": "philipsolberg45@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "26430332"
+  },
+  {
+    "name": "Lars Høyer Holmqvist",
+    "party": "LA",
+    "email": "larsholmqvist78@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "31176133"
+  },
+  {
+    "name": "Sten Schmidl Søbjærg",
+    "party": "LA",
+    "email": "sten.sobjaerg@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "93920554"
+  },
+  {
+    "name": "Robert Mørck",
+    "party": "LA",
+    "email": "Robert.moerck@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "20835301"
+  },
+  {
+    "name": "Steffen Sjørslev",
+    "party": "LA",
+    "email": "steffen@sjorslev.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "20355730"
+  },
+  {
+    "name": "Johannes Joyce",
+    "party": "LA",
+    "email": "j.joycehenriksen@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "61167266"
+  },
+  {
+    "name": "Kira Danholm",
+    "party": "LA",
+    "email": "kira.danholm@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "28799933"
+  },
+  {
+    "name": "Steen Tofteng",
+    "party": "LA",
+    "email": "steen.tofteng@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": "21456997"
+  },
+  {
+    "name": "Alexander Ryle",
+    "party": "LA",
+    "email": "alexander.ryle@ft.dk",
+    "storkreds": "København",
+    "additional_info": "61624983"
+  },
+  {
+    "name": "Merete Riisager",
+    "party": "LA",
+    "email": "Merete.Riisager@ft.dk",
+    "storkreds": "København",
+    "additional_info": "61625094"
+  },
+  {
+    "name": "Per Nørgaard Andersen",
+    "party": "LA",
+    "email": "pinasso2000@hotmail.com",
+    "storkreds": "København",
+    "additional_info": "26283526"
+  },
+  {
+    "name": "Charlotte Nellemann",
+    "party": "LA",
+    "email": "charlotte.nellemann@live.dk",
+    "storkreds": "København",
+    "additional_info": "26852502"
+  },
+  {
+    "name": "Line Østergaard Olsen",
+    "party": "LA",
+    "email": "linelouise34@gmail.com",
+    "storkreds": "København",
+    "additional_info": "61556846"
+  },
+  {
+    "name": "Laura Emilie Fabricius-Lauritzen",
+    "party": "LA",
+    "email": "laura.fabricius.lauritzen@hotmail.com",
+    "storkreds": "København",
+    "additional_info": "22827634"
+  },
+  {
+    "name": "Torben Guldbæk",
+    "party": "LA",
+    "email": "torben.guldbaek.jensen@gmail.com",
+    "storkreds": "København",
+    "additional_info": "31360538"
+  },
+  {
+    "name": "Hanne Bjørn",
+    "party": "LA",
+    "email": "liberal@hannebjornk.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "22354772"
+  },
+  {
+    "name": "Jacqueline Kristensen",
+    "party": "LA",
+    "email": "jk@lagladsaxe.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "40752595"
+  },
+  {
+    "name": "Patrizia Venturelli Christensen",
+    "party": "LA",
+    "email": "pvc@venturelliconsulting.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "53760976"
+  },
+  {
+    "name": "Michael Melchert",
+    "party": "LA",
+    "email": "michael.melchert.la@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "25329486"
+  },
+  {
+    "name": "Frank Clausen",
+    "party": "LA",
+    "email": "frank09clausen@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "21436249"
+  },
+  {
+    "name": "David Ibsen",
+    "party": "LA",
+    "email": "david.ibsen@outlook.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": "26713286"
+  },
+  {
+    "name": "Mads Brenøe",
+    "party": "LA",
+    "email": "mblange@live.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "30236504"
+  },
+  {
+    "name": "Martin Mickey",
+    "party": "LA",
+    "email": "Mickeyerliberal@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "42703525"
+  },
+  {
+    "name": "Frederik Grünfeld",
+    "party": "LA",
+    "email": "frederik.heimark@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "40887575"
+  },
+  {
+    "name": "Michael Rask",
+    "party": "LA",
+    "email": "mr@lagreve.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "22381978"
+  },
+  {
+    "name": "Sandra Skalvig",
+    "party": "LA",
+    "email": "sandra.skalvig@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "61624941"
+  },
+  {
+    "name": "Nicolai Sandager",
+    "party": "LA",
+    "email": "nicolai@sandager.org",
+    "storkreds": "Sjælland",
+    "additional_info": "20244098"
+  },
+  {
+    "name": "Henrik B. Dynesen",
+    "party": "LA",
+    "email": "henrikbdynesen@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "25678013"
+  },
+  {
+    "name": "Julie Memborg",
+    "party": "LA",
+    "email": "Jmemborg@hotmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "22800050"
+  },
+  {
+    "name": "Steffen Friis",
+    "party": "LA",
+    "email": "info@steffenfriis.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "71900533"
+  },
+  {
+    "name": "Carsten Abildtrup Ranum",
+    "party": "LA",
+    "email": "carsten@min-behandler.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "24265010"
+  },
+  {
+    "name": "Malene Køppen",
+    "party": "LA",
+    "email": "malenekoeppen@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "50460571"
+  },
+  {
+    "name": "Frederik Max Krag",
+    "party": "LA",
+    "email": "liberalalliance.snowstorm524@passmail.net",
+    "storkreds": "Sjælland",
+    "additional_info": "24498251"
+  },
+  {
+    "name": "Elva Bille Klem",
+    "party": "LA",
+    "email": "ebklem@icloud.com",
+    "storkreds": "Sjælland",
+    "additional_info": "31765579"
+  },
+  {
+    "name": "Susan H. Møller",
+    "party": "LA",
+    "email": "Susanhmoeller@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "22127888"
+  },
+  {
+    "name": "Ulrik Lassen",
+    "party": "LA",
+    "email": "ulriknlassen@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": "31313595"
+  },
+  {
+    "name": "Brian Prehn",
+    "party": "LA",
+    "email": "mail@brianprehn.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "51919455"
+  },
+  {
+    "name": "Nikolaj Brink Olsen",
+    "party": "LA",
+    "email": "nbo@stembrink.dk",
+    "storkreds": "Sjælland",
+    "additional_info": "30761938"
+  },
+  {
+    "name": "Kasper Schneider",
+    "party": "LA",
+    "email": "kasper.schneider@hardi.com",
+    "storkreds": "Sjælland",
+    "additional_info": "26272785"
+  },
+  {
+    "name": "Cecilie Liv Hansen",
+    "party": "LA",
+    "email": "cecilieldh1508@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "20965524"
+  },
+  {
+    "name": "Christian Jørgensen",
+    "party": "LA",
+    "email": "christian.jorgensen@fredericia.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "24611199"
+  },
+  {
+    "name": "Carl Andersen",
+    "party": "LA",
+    "email": "carl.andersen@ft.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": "61623750"
+  },
+  {
+    "name": "Helene Lykke",
+    "party": "LA",
+    "email": "helenelykke95@hotmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "22930805"
+  },
+  {
+    "name": "John Rasmussen",
+    "party": "LA",
+    "email": "Powerfaust@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "26188731"
+  },
+  {
+    "name": "Christian Fini Mosegaard",
+    "party": "LA",
+    "email": "christianfini@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "41839966"
+  },
+  {
+    "name": "Troels Simonsen",
+    "party": "LA",
+    "email": "kirotroels1@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "22721033"
+  },
+  {
+    "name": "Frederik Klakk",
+    "party": "LA",
+    "email": "fkjeppesen@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": "28103493"
+  },
+  {
+    "name": "Svend Stein Olsen",
+    "party": "LA",
+    "email": "svendsteinolsen22@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "42667040"
+  },
+  {
+    "name": "Steffen Troldtoft",
+    "party": "LA",
+    "email": "steffen_troldtoft@hotmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "20666567"
+  },
+  {
+    "name": "Michael Valbjørn",
+    "party": "LA",
+    "email": "kontakt@mvla.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "81442855"
+  },
+  {
+    "name": "Ragnar Dixen",
+    "party": "LA",
+    "email": "rdixen@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "53698040"
+  },
+  {
+    "name": "Iben Forum Jeppesen",
+    "party": "LA",
+    "email": "ibenfj@outlook.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "20194341"
+  },
+  {
+    "name": "Keld Lorenzen",
+    "party": "LA",
+    "email": "keld.lorenzen@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "54339099"
+  },
+  {
+    "name": "Annette Sofia Skotte",
+    "party": "LA",
+    "email": "ask@kompleksit.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": "23986144"
+  },
+  {
+    "name": "Kevin Possekel",
+    "party": "LA",
+    "email": "kevinpossekel2@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": "25794114"
+  },
+  {
+    "name": "Chris Hvidberg",
+    "party": "LA",
+    "email": "lachrishvidberg@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "52654537"
+  },
+  {
+    "name": "Niels Povlsgaard",
+    "party": "LA",
+    "email": "nielspovlsgaard@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "51909660"
+  },
+  {
+    "name": "Søren Jensen",
+    "party": "LA",
+    "email": "soren.m.jensen@hotmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "22427924"
+  },
+  {
+    "name": "Lars Abildskov",
+    "party": "LA",
+    "email": "lars@abildskov.email",
+    "storkreds": "Østjylland",
+    "additional_info": "23604576"
+  },
+  {
+    "name": "Michael Klausen",
+    "party": "LA",
+    "email": "michaelklausen9@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "42830965"
+  },
+  {
+    "name": "Kim Møller-Nielsen",
+    "party": "LA",
+    "email": "kim@stem-kim.dk",
+    "storkreds": "Østjylland",
+    "additional_info": "41139114"
+  },
+  {
+    "name": "Louise Svenstrup",
+    "party": "LA",
+    "email": "louisem.svenstrup@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "28743794"
+  },
+  {
+    "name": "Alex Kristensen",
+    "party": "LA",
+    "email": "mr.kristensen@hotmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": "27852701"
+  }
+]
