@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Alex Ahrendtsen",
+    "party": "DF",
+    "email": "dfalah@ft.dk",
+    "storkreds": "Fyn",
+    "additional_info": null
+  },
+  {
+    "name": "Allan Feldt",
+    "party": "DF",
+    "email": "Feldten@me.com",
+    "storkreds": "København",
+    "additional_info": null
+  },
+  {
+    "name": "Allan Svendsen",
+    "party": "DF",
+    "email": "romo@romocamping.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Anders Bork",
+    "party": "DF",
+    "email": "skrivtilanders@outlook.com",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Anders Vistisen",
+    "party": "DF",
+    "email": "apvistisen@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Anne Møllegaard Mortensen",
+    "party": "DF",
+    "email": "anmo@fmk.dk",
+    "storkreds": "Fyn",
+    "additional_info": null
+  },
+  {
+    "name": "Bo Vibe Ancher Jensen",
+    "party": "DF",
+    "email": "boajensen35@gmail.com",
+    "storkreds": "Bornholm",
+    "additional_info": null
+  },
+  {
+    "name": "Brian Lyck Jørgensen",
+    "party": "DF",
+    "email": "bljoe@gribskov.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Christian Kirk Nielsen",
+    "party": "DF",
+    "email": "christiankirk11@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Danny Rosenkilde Nielsen",
+    "party": "DF",
+    "email": "dannyrosenkilde@outlook.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Denise Rostgaard",
+    "party": "DF",
+    "email": "deniserostgaard@gmail.com",
+    "storkreds": "København",
+    "additional_info": null
+  },
+  {
+    "name": "Emma Mølgaard",
+    "party": "DF",
+    "email": "emma.lenord@gmail.com",
+    "storkreds": "Nordjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Gert Løfgren",
+    "party": "DF",
+    "email": "Gert@df.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Hans Blaaberg",
+    "party": "DF",
+    "email": "blaaberg@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": null
+  },
+  {
+    "name": "Henrik Brodersen",
+    "party": "DF",
+    "email": "henbro@slagelse.dk",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Jacob Bentsen",
+    "party": "DF",
+    "email": "jacobbentsen@hotmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Jan Herskov",
+    "party": "DF",
+    "email": "janhh66@hotmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Jens Kannegaard Lundager",
+    "party": "DF",
+    "email": "jenslundager@live.dk",
+    "storkreds": "Østjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Jette Juul",
+    "party": "DF",
+    "email": "jjuu@hotmail.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Jim Zakaria Gindesgaard",
+    "party": "DF",
+    "email": "jimzakaria@hotmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Jørgen Hammer Sørensen",
+    "party": "DF",
+    "email": "hammer6@image.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Josephine Alstrup Kofod",
+    "party": "DF",
+    "email": "josephinealstrup@outlook.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Julie Jacobsen",
+    "party": "DF",
+    "email": "juliejacobsen19@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Kim Doberck",
+    "party": "DF",
+    "email": "Kdoberck@hotmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Kim Hammer",
+    "party": "DF",
+    "email": "kim.hammer.rodovre@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": null
+  },
+  {
+    "name": "Knud Nielsen",
+    "party": "DF",
+    "email": "Knud110@hotmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Lone Langballe",
+    "party": "DF",
+    "email": "lone.langballe@hotmail.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Mads-Magnus Damm",
+    "party": "DF",
+    "email": "madsmagnusdamm@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Malte Larsen",
+    "party": "DF",
+    "email": "Malte.boehm.larsen@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Mercedes Czank",
+    "party": "DF",
+    "email": "df.favrskov@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Merete Dea Larsen",
+    "party": "DF",
+    "email": "meretedl@roskilde.dk",
+    "storkreds": "København",
+    "additional_info": null
+  },
+  {
+    "name": "Mette Thiesen",
+    "party": "DF",
+    "email": "mette.thiesen@ft.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Michael Jensen",
+    "party": "DF",
+    "email": "mjjensen69@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": null
+  },
+  {
+    "name": "Michael Nedersøe",
+    "party": "DF",
+    "email": "horsens@df.dk",
+    "storkreds": "Østjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Michael Pihl",
+    "party": "DF",
+    "email": "michael.pihl@hotmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Michelle Sundahl",
+    "party": "DF",
+    "email": "michelle.dsp@godmail.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Mikael Würtz",
+    "party": "DF",
+    "email": "mikael.wurtz70@gmail.com",
+    "storkreds": "Vestjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Mikkel Bjørn",
+    "party": "DF",
+    "email": "mikkel.bjorn@ft.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": null
+  },
+  {
+    "name": "Mikkel Dencker",
+    "party": "DF",
+    "email": "msd@hvidovre.dk",
+    "storkreds": "Københavns Omegns",
+    "additional_info": null
+  },
+  {
+    "name": "Mikkel Hartwich",
+    "party": "DF",
+    "email": "Hartwich94@Outlook.dk",
+    "storkreds": "Nordsjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Morten Messerschmidt",
+    "party": "DF",
+    "email": "dfmome@ft.dk",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Nana Harring",
+    "party": "DF",
+    "email": "nana.thillemann.harring@gmail.com",
+    "storkreds": "Østjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Nick Zimmermann",
+    "party": "DF",
+    "email": "nick.zimmermann@ft.dk",
+    "storkreds": "Østjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Niels Nybro Bolding",
+    "party": "DF",
+    "email": "Nnb@aldev.dk",
+    "storkreds": "Fyn",
+    "additional_info": null
+  },
+  {
+    "name": "Paw Karslund",
+    "party": "DF",
+    "email": "pkarslund@gmail.com",
+    "storkreds": "København",
+    "additional_info": null
+  },
+  {
+    "name": "Per Knudsen",
+    "party": "DF",
+    "email": "sendper@yahoo.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Peter Kofod",
+    "party": "DF",
+    "email": null,
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Pia Adelsteen",
+    "party": "DF",
+    "email": "pia.adelsteen@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Romeo Troelsgaard",
+    "party": "DF",
+    "email": null,
+    "storkreds": "Fyn",
+    "additional_info": null
+  },
+  {
+    "name": "Rune Bønnelykke",
+    "party": "DF",
+    "email": "runbo@vejle.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Rune Højer",
+    "party": "DF",
+    "email": "runehj@hotmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Simon Hampe",
+    "party": "DF",
+    "email": "simonhampe94@hotmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Søren Boel Olesen",
+    "party": "DF",
+    "email": "soren.olesen@holstebro.dk",
+    "storkreds": "Vestjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Søren Lund Hansen",
+    "party": "DF",
+    "email": "lundhansen2010@gmail.com",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Sune Nørgaard Jacobsen",
+    "party": "DF",
+    "email": "sune.norgaardkikan@gmail.com",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Tanja Glückstadt",
+    "party": "DF",
+    "email": "tanja@henta.dk",
+    "storkreds": "Sjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Tenna Røberg",
+    "party": "DF",
+    "email": "tylr.dk@gmail.com",
+    "storkreds": "Københavns Omegns",
+    "additional_info": null
+  },
+  {
+    "name": "Thomas Hjort",
+    "party": "DF",
+    "email": "thomas@up2date.dk",
+    "storkreds": "Nordjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Tobias Brus Mikkelsen",
+    "party": "DF",
+    "email": "tobiasmikkelsen1@hotmail.dk",
+    "storkreds": "Sydjylland",
+    "additional_info": null
+  },
+  {
+    "name": "Tobias Weische",
+    "party": "DF",
+    "email": "tobiasdfu@live.dk",
+    "storkreds": "Fyn",
+    "additional_info": null
+  },
+  {
+    "name": "Ulla Kokfelt",
+    "party": "DF",
+    "email": "ukokfelt@gmail.com",
+    "storkreds": "Nordsjælland",
+    "additional_info": null
+  },
+  {
+    "name": "Zandra Thulstrup Pihl",
+    "party": "DF",
+    "email": "zandra.p@hotmail.fr",
+    "storkreds": "Københavns Omegns",
+    "additional_info": null
+  }
+]
