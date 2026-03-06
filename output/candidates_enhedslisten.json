@@ -1,134 +1,156 @@
 [
   {
-    "name": "Rasmus Vestergaard",
-    "storkreds": "Sydjylland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Sinem Dybvad Demir",
-    "storkreds": "Nordsjælland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Mathilde Vinther",
-    "storkreds": "Københavns",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Trine Pertou Mach",
-    "storkreds": "Østjylland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Pelle Dragsted",
-    "storkreds": "Københavns",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Leila Stockmarr",
-    "storkreds": "Københavns",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Edith Vels",
-    "storkreds": "Østjylland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
     "name": "Christoffer Emil Jexen",
     "storkreds": "Nordsjælland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Reza Javid",
-    "storkreds": "Fyn",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Victoria Velásquez",
-    "storkreds": "Fyn",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Runa Friis Hansen",
-    "storkreds": "Nordjylland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Maria Temponeras",
-    "storkreds": "Østjylland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Eva Flyvholm",
-    "storkreds": "Sjælland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Selma Bolø",
-    "storkreds": "Sydjylland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Rosa Lund",
-    "storkreds": "Københavns",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Louis Jacobsen",
-    "storkreds": "Sjælland",
-    "email": null,
-    "party": "Enhedslisten"
-  },
-  {
-    "name": "Stine Ry Andersen",
-    "storkreds": "Vestjylland",
-    "email": null,
-    "party": "Enhedslisten"
+    "email": "chej@rudersdal.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/christoffer-emil-jexen/"
   },
   {
     "name": "Clara Turms",
     "storkreds": "Københavns Omegns",
-    "email": null,
-    "party": "Enhedslisten"
+    "email": "clara.turms@enhedslisten.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/clara-turms-2/"
+  },
+  {
+    "name": "Edith Vels",
+    "storkreds": "Østjylland",
+    "email": "edithvels@yahoo.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/edith-vels/"
+  },
+  {
+    "name": "Eva Flyvholm",
+    "storkreds": "Sjælland",
+    "email": "eva_flyvholm@hotmail.com",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/eva-flyvholm/"
   },
   {
     "name": "Ibrahim Benli",
     "storkreds": "Københavns Omegns",
-    "email": null,
-    "party": "Enhedslisten"
+    "email": "ibrahim.benli@enhedslisten.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/ibrahim-benli-2/"
+  },
+  {
+    "name": "Leila Stockmarr",
+    "storkreds": "Københavns",
+    "email": "leila.stockmarr@ft.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/leila-stockmarr-2/"
   },
   {
     "name": "Lisbeth Torfing",
     "storkreds": "Vestjylland",
-    "email": null,
-    "party": "Enhedslisten"
+    "email": "lisbeth.torfing@enhedslisten.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/lisbeth-torfing/"
+  },
+  {
+    "name": "Louis Jacobsen",
+    "storkreds": "Sjælland",
+    "email": "louis.j@enhedslisten.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/louis-jacobsen/"
+  },
+  {
+    "name": "Maria Temponeras",
+    "storkreds": "Østjylland",
+    "email": "maria.temponeras@gmail.com",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/maria-temponeras/"
+  },
+  {
+    "name": "Mathilde Vinther",
+    "storkreds": "Københavns",
+    "email": "landskontor@enhedslisten.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/mathilde-vinther/"
   },
   {
     "name": "Peder Hvelplund",
     "storkreds": "Nordjylland",
-    "email": null,
-    "party": "Enhedslisten"
+    "email": "peder.hvelplund@ft.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/peder-hvelplund-2/"
+  },
+  {
+    "name": "Pelle Dragsted",
+    "storkreds": "Københavns",
+    "email": "pelle.dragsted@ft.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/pelle-dragsted-2/"
   },
   {
     "name": "Pil Christensen",
     "storkreds": "Københavns",
-    "email": null,
-    "party": "Enhedslisten"
+    "email": "pilchristensen@gmail.com",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/pil-christensen/"
+  },
+  {
+    "name": "Rasmus Vestergaard",
+    "storkreds": "Sydjylland",
+    "email": "rasmusv@enhedslisten.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/rasmus-vestergaard/"
+  },
+  {
+    "name": "Reza Javid",
+    "storkreds": "Fyn",
+    "email": "reza@javid.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/reza-javid/"
+  },
+  {
+    "name": "Rosa Lund",
+    "storkreds": "Københavns",
+    "email": "rosa.lund@ft.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/rosa-lund-2/"
+  },
+  {
+    "name": "Runa Friis Hansen",
+    "storkreds": "Nordjylland",
+    "email": "runa.friis@enhedslisten.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/runa-friis-hansen-2/"
+  },
+  {
+    "name": "Selma Bolø",
+    "storkreds": "Sydjylland",
+    "email": "selmabjoerg@gmail.com",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/selma-boloe-2/"
+  },
+  {
+    "name": "Sinem Dybvad Demir",
+    "storkreds": "Nordsjælland",
+    "email": "sinem@enhedslisten.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/sinem-dybvad-demir/"
+  },
+  {
+    "name": "Stine Ry Andersen",
+    "storkreds": "Vestjylland",
+    "email": "stineryandersen@gmail.com",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/stine-ry-andersen-2/"
+  },
+  {
+    "name": "Trine Mach",
+    "storkreds": "Østjylland",
+    "email": "trine.mach@ft.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/trine-pertou-mach-2/"
+  },
+  {
+    "name": "Victoria Velásquez",
+    "storkreds": "Fyn",
+    "email": "victoria.velasquez@ft.dk",
+    "party": "Enhedslisten",
+    "url": "https://enhedslisten.dk/profil/victoria-velasquez-3/"
   }
 ]
