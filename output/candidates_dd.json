@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Inger Støjberg",
+    "email": "",
+    "storkreds": "Nordjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Kristian Bøgsted",
+    "email": "kristian.boegsted@ft.dk",
+    "storkreds": "Nordjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Kim Edberg Andersen",
+    "email": "ddkiea@ft.dk",
+    "storkreds": "Nordjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Liselotte Lynge",
+    "email": "Llj2012@hotmail.dk",
+    "storkreds": "Nordjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Frederik Hjort Storm",
+    "email": "Fhstorm@hotmail.com",
+    "storkreds": "Nordjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Claus Bisgaard Skovmose",
+    "email": "Bisskov@icloud.com",
+    "storkreds": "Nordjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Dennis Flydtkjær",
+    "email": "dennis.flydtkjaer@ft.dk",
+    "storkreds": "Vestjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Betina Kastbjerg",
+    "email": "betina.kastbjerg@ft.dk",
+    "storkreds": "Vestjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Mads Fuglede",
+    "email": "ddmafu@ft.dk",
+    "storkreds": "Vestjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Morten Vehl Revsbeck",
+    "email": "Vehlsgaard@gmail.com",
+    "storkreds": "Vestjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Marcus Juul Grønbæk",
+    "email": "mjg260804@gmail.com",
+    "storkreds": "Vestjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Vivi Altenburg",
+    "email": "v.altenburg@skjern-net.dk",
+    "storkreds": "Vestjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Hans Kristian Skibby",
+    "email": "hans.skibby@ft.dk",
+    "storkreds": "Østjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Erik Poulsen",
+    "email": "bg@bjoernegaarden.com",
+    "storkreds": "Østjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Lone Glarbo",
+    "email": "loneglarbo65@gmail.com",
+    "storkreds": "Østjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Rune Mikkelsen",
+    "email": "Runemikkelsen82@gmail.com",
+    "storkreds": "Østjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Magnus Bigum",
+    "email": "magnusbigum01@gmail.com",
+    "storkreds": "Østjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Kenneth Fredslund Petersen",
+    "email": "Kenneth.petersen@ft.dk",
+    "storkreds": "Sydjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Karina Adsbøl",
+    "email": "karina.adsbol@ft.dk",
+    "storkreds": "Sydjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Ulrik Knudsen",
+    "email": "mrknudsen10@gmail.com",
+    "storkreds": "Sydjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Patrick Culmsee Bryhl",
+    "email": "patrick@danmarksdemokraterne.dk",
+    "storkreds": "Sydjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Thomas Byrsing",
+    "email": "byrsing@gmail.com",
+    "storkreds": "Sydjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Jakob Venø Heiwald",
+    "email": "jvheiwald@gmail.com",
+    "storkreds": "Sydjylland",
+    "party": "DD"
+  },
+  {
+    "name": "Jens Henrik W. Thulesen Dahl",
+    "email": "jens.henrik.thulesen.dahl@ft.dk",
+    "storkreds": "Fyn",
+    "party": "DD"
+  },
+  {
+    "name": "Nikolaj Vang",
+    "email": "nvang77@gmail.com",
+    "storkreds": "Fyn",
+    "party": "DD"
+  },
+  {
+    "name": "Vivian Lindberg Larsen",
+    "email": "vlindberg@mail.dk",
+    "storkreds": "Fyn",
+    "party": "DD"
+  },
+  {
+    "name": "Peter Skaarup",
+    "email": "susie.jessen@ft.dk",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Susie Jessen",
+    "email": "susie.jessen@ft.dk",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Christian Wibholm",
+    "email": "christianwibholm@gmail.com",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Michael Rosenmark",
+    "email": "micr@fvst.dk",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Dina Person",
+    "email": "dina-person@outlook.dk",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Brian Mørch",
+    "email": "Bm@solrod.dk",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "John Brill Engkebølle",
+    "email": "Johnbrill1977@yahoo.dk",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Martin Rahn Johansen",
+    "email": "martinrjohansen1@gmail.com",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Benny Damgaard",
+    "email": "Bdamgaard8@gmail.com",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Bob Nielsen",
+    "email": "t3s@live.dk",
+    "storkreds": "Sjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Marlene Harpsøe",
+    "email": "marlene.harpsoe@ft.dk",
+    "storkreds": "Nordsjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Lars Bregnbak",
+    "email": "bregnbak@gmail.com",
+    "storkreds": "Nordsjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Maibritt Nielsen",
+    "email": "maibritt@salgsklar.nu",
+    "storkreds": "Nordsjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Katrine Schiller",
+    "email": "Katrine.schiller@gmail.com",
+    "storkreds": "Nordsjælland",
+    "party": "DD"
+  },
+  {
+    "name": "Charlotte Munch Pasler",
+    "email": "charlotte.munch@ft.dk",
+    "storkreds": "Københavns Omegns",
+    "party": "DD"
+  },
+  {
+    "name": "Sebastian Mylsted",
+    "email": "schenstroem@icloud.com",
+    "storkreds": "Københavns Omegns",
+    "party": "DD"
+  },
+
+  {
+    "name": "Susanne Damsgaard",
+    "email": "Lykkebis@yahoo.dk",
+    "storkreds": "Københavns Omegns",
+    "party": "DD"
+  },
+  {
+    "name": "Benny Bindslev",
+    "email": "cla@mail.dk",
+    "storkreds": "København",
+    "party": "DD"
+  },
+  {
+    "name": "Eva Bechmann",
+    "email": "evabechmann@outlook.dk",
+    "storkreds": "København",
+    "party": "DD"
+  },
+  {
+    "name": "Martin Sibast",
+    "email": "martinsibast@gmail.com",
+    "storkreds": "København",
+    "party": "DD"
+  },
+  {
+    "name": "Michael Hendriksen",
+    "email": "hendriksen@pc.dk",
+    "storkreds": "Bornholm",
+    "party": "DD"
+  }
+]
