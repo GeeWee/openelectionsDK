@@ -8,20 +8,13 @@ Enhedslisten [x]
 Det Konservative Folkeparti [x]
 Alternativet [x]
 Liberal Alliance [x]
+Dansk Folkeparti
+Danmarksdemokraterne 
 
 -- not done
 
 Borgernes Parti
 https://borgernesparti.dk/kandidater/
 - storkreds listed under each politician
-
-
-Dansk Folkeparti
-https://danskfolkeparti.dk/kandidater/
-- Storkreds is listed under each politician
-
-Danmarksdemokraterne
-https://danmarksdemokraterne.dk/forside/folketingskandidater/
-- The storkeds is listed under each politician
 
 
